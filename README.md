@@ -1,5 +1,8 @@
 # psychic-palm-tree
-homework 6
+Homework 6
+
+# Deployed App
+https://graysonwagner.github.io/psychic-palm-tree/
 
 # User Story
 AS A traveler
