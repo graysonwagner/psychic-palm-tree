@@ -19,5 +19,8 @@ THEN I am again presented with current and future conditions for that city
 
 # Webpage SS
 
-
+Page when loaded:
 ![Screen Shot 2023-01-17 at 11 00 26 AM](https://user-images.githubusercontent.com/118473305/212963606-6db96274-991a-4c9c-bdd1-c3bec10a0551.png)
+
+Page when typed selected city:
+![Screen Shot 2023-01-17 at 11 02 37 AM](https://user-images.githubusercontent.com/118473305/212963978-b0ad1bf4-0c26-418b-aeb5-6f8be95b536f.png)
