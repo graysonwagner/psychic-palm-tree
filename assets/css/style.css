@@ -1,0 +1,58 @@
+body {
+    font-size: 20px;
+    line-height: 1;
+    background-image: url("../images/grass2.jpeg");
+    font-family: 'Saira', sans-serif;
+    color: white;
+  }
+  
+  #icon {
+    width : 75%;
+  }
+  
+  .jumbotron {
+    background-image: url("../images/weather.jpeg");
+    text-align: center;
+  }
+  
+  .container {
+    background-color: #48b7dc;
+    border: 2px rgb(8, 8, 8) double;
+    padding: 30px
+  }
+  
+  #icon {
+    position: relative;
+    top: 50px;
+  }
+  
+  h2 {
+    position: relative;
+    right: 90px;
+    font-size: 30px;
+    font-weight: 500;
+    border-bottom: dashed #808080 2px;
+    color: #808080;
+  }
+  
+  h3 {
+    font-size: 30px;
+    font-weight: 500;
+    border-bottom: dashed #808080 2px;
+    color: #808080;
+  }
+  
+  h4 {
+    font-size: 40px;
+    font-weight: 900; 
+  }
+  
+  .btn {
+    border: black solid 1px;
+    margin-top: 5px;
+    margin-right: 2px;
+  }
+  
+  #uvIndex {
+    color: rgb(240, 213, 37)
+  }
