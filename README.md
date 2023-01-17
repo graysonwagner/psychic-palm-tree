@@ -27,3 +27,8 @@ Page when loaded:
 
 Page when typed selected city:
 ![Screen Shot 2023-01-17 at 11 02 37 AM](https://user-images.githubusercontent.com/118473305/212963978-b0ad1bf4-0c26-418b-aeb5-6f8be95b536f.png)
+
+# Things ive learned
+-A further understanding on using git
+-Using and generating API keys 
+
