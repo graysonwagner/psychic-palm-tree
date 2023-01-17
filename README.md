@@ -30,5 +30,6 @@ Page when typed selected city:
 
 # Things ive learned
 -A further understanding on using git
+
 -Using and generating API keys 
 
